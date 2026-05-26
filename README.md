@@ -7,7 +7,6 @@ Full-stack healthcare web application where **patients can search and consult do
 
 ![Site Screenshot](https://github.com/Sacarima/MEDIPULSO/blob/main/client/src/assets/site-screenshot.png?raw=true)
 
-
 ---
 
 ## Project Status
